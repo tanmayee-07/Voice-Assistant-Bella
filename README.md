@@ -15,3 +15,5 @@
 * Calculating the **Distance** between two cities (mapquest.com website has been used), 
 * Providing information from **Wikipedia** and 
 * Telling the **Time and Weekday** (Python Dates website has been used)
+
+However, this project can be expanded by incorporating additional functionalities into it in a similar fashion like the previous ones.
